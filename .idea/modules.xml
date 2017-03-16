@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordClock.iml" filepath="$PROJECT_DIR$/.idea/modules/WordClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordClock_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WordClock_main.iml" group="WordClock" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordClock_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WordClock_test.iml" group="WordClock" />
+    </modules>
+  </component>
+</project>
