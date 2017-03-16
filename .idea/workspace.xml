@@ -31,8 +31,8 @@
           <file leaf-file-name="WordClock.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/WordClock.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+                <state relative-caret-position="399">
+                  <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -47,12 +47,12 @@
           <file leaf-file-name="WordClockTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/WordClockTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="834">
-                  <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+                <state relative-caret-position="140">
+                  <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#2405#2406#0" expanded="true" />
-                    <element signature="e#2474#2475#0" expanded="true" />
+                    <element signature="e#2404#2405#0" expanded="true" />
+                    <element signature="e#2473#2474#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -989,14 +989,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489675182129</updated>
-      <workItem from="1489675189757" duration="4087000" />
+      <workItem from="1489675189757" duration="4463000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordClockTest - 2017.03.16 at 11h 30m 52s.xml">
-      <configuration name="WordClockTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="WordClockTest - 2017.03.16 at 11h 34m 05s.xml">
       <configuration name="WordClockTest" configurationId="JUnit" />
     </history-entry>
@@ -1012,25 +1009,28 @@
     <history-entry file="WordClockTest - 2017.03.16 at 11h 39m 07s.xml">
       <configuration name="WordClockTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WordClockTest - 2017.03.16 at 11h 53m 35s.xml">
+      <configuration name="WordClockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordClockTest - 2017.03.16 at 11h 53m 55s.xml">
+      <configuration name="WordClockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordClockTest - 2017.03.16 at 11h 54m 34s.xml">
+      <configuration name="WordClockTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="WordClockTest_forAnInputAfterNoonWeGetBackATwelveHourValue - 2017.03.16 at 11h 32m 41s.xml">
       <configuration name="WordClockTest.forAnInputAfterNoonWeGetBackATwelveHourValue" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WordClockTest_forAnInputAfterNoonWeGetBackATwelveHourValue - 2017.03.16 at 11h 34m 00s.xml">
       <configuration name="WordClockTest.forAnInputAfterNoonWeGetBackATwelveHourValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordClockTest_forAnInputOfOneOClockWeGetBackAStringOutputOfOneOClock - 2017.03.16 at 11h 29m 09s.xml">
-      <configuration name="WordClockTest.forAnInputOfOneOClockWeGetBackAStringOutputOfOneOClock" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WordClockTest_forAnInputOfOneOClockWeGetBackAStringOutputOfOneOClock - 2017.03.16 at 11h 30m 46s.xml">
-      <configuration name="WordClockTest.forAnInputOfOneOClockWeGetBackAStringOutputOfOneOClock" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4087000" />
+    <option name="totallyTimeSpent" value="4463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-552" y="-1417" width="2559" height="1388" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1049,10 +1049,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14274691" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37037036" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22526817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07175926" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22526817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1082,24 +1082,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/WordClockTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordClock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2405#2406#0" expanded="true" />
-            <element signature="e#2474#2475#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordClock.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/WordClockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="140">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2473#2474#0" expanded="true" />
           </folding>
         </state>
       </provider>

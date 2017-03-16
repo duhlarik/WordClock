@@ -18,7 +18,6 @@ public class WordClockTest {
     public void forAnInputOfOneOClockWeGetBackAStringOutputOfOneOClock() {
         assertEquals("one o'clock", wordClock.translateTime(LocalTime.of(1, 0)));
     }
-
     @Test
     public void forAnInputOnTheHourOfTwoWeGetBackTwoOClock() throws Exception {
         assertEquals("two o'clock", wordClock.translateTime(LocalTime.of(2, 0)));
